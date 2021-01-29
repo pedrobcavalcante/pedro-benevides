@@ -1,7 +1,10 @@
+import Navbar from './components/navbar/navbar'
 
 function App() {
   return (
-    <p>Hello World!</p>
+    <div>
+      <Navbar children={<div></div>}></Navbar>
+    </div>
   );
 }
 
