@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/pedro-benevides/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/pedro-benevides/static/js/main.cf92a311.chunk.js",
-    "main.js.map": "/pedro-benevides/static/js/main.cf92a311.chunk.js.map",
-    "runtime-main.js": "/pedro-benevides/static/js/runtime-main.50c10a10.js",
-    "runtime-main.js.map": "/pedro-benevides/static/js/runtime-main.50c10a10.js.map",
-    "static/js/2.824e72c3.chunk.js": "/pedro-benevides/static/js/2.824e72c3.chunk.js",
-    "static/js/2.824e72c3.chunk.js.map": "/pedro-benevides/static/js/2.824e72c3.chunk.js.map",
-    "static/js/3.2e140c01.chunk.js": "/pedro-benevides/static/js/3.2e140c01.chunk.js",
-    "static/js/3.2e140c01.chunk.js.map": "/pedro-benevides/static/js/3.2e140c01.chunk.js.map",
+    "main.css": "/pedro-benevides/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/pedro-benevides/static/js/main.86cf0c08.chunk.js",
+    "main.js.map": "/pedro-benevides/static/js/main.86cf0c08.chunk.js.map",
+    "runtime-main.js": "/pedro-benevides/static/js/runtime-main.8f8fa505.js",
+    "runtime-main.js.map": "/pedro-benevides/static/js/runtime-main.8f8fa505.js.map",
+    "static/js/2.fd845ba8.chunk.js": "/pedro-benevides/static/js/2.fd845ba8.chunk.js",
+    "static/js/2.fd845ba8.chunk.js.map": "/pedro-benevides/static/js/2.fd845ba8.chunk.js.map",
+    "static/js/3.f8937f58.chunk.js": "/pedro-benevides/static/js/3.f8937f58.chunk.js",
+    "static/js/3.f8937f58.chunk.js.map": "/pedro-benevides/static/js/3.f8937f58.chunk.js.map",
     "index.html": "/pedro-benevides/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/pedro-benevides/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.824e72c3.chunk.js.LICENSE.txt": "/pedro-benevides/static/js/2.824e72c3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/pedro-benevides/static/media/logo.6ce24c58.svg"
+    "static/css/main.2ae47eeb.chunk.css.map": "/pedro-benevides/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.fd845ba8.chunk.js.LICENSE.txt": "/pedro-benevides/static/js/2.fd845ba8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.50c10a10.js",
-    "static/js/2.824e72c3.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.cf92a311.chunk.js"
+    "static/js/runtime-main.8f8fa505.js",
+    "static/js/2.fd845ba8.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.86cf0c08.chunk.js"
   ]
 }
